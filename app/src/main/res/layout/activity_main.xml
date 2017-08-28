@@ -22,7 +22,25 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/btn3"
+        android:id="@+id/btn343"
+        android:text="Click 2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn15"
+        android:text="Click"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn23453"
+        android:text="Click 2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn33245"
         android:text="Click 2"/>
 
 </LinearLayout>
